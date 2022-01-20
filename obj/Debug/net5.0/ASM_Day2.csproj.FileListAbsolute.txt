@@ -1,0 +1,16 @@
+D:\ASM_Day2\bin\Debug\net5.0\ASM_Day2.exe
+D:\ASM_Day2\bin\Debug\net5.0\ASM_Day2.deps.json
+D:\ASM_Day2\bin\Debug\net5.0\ASM_Day2.runtimeconfig.json
+D:\ASM_Day2\bin\Debug\net5.0\ASM_Day2.runtimeconfig.dev.json
+D:\ASM_Day2\bin\Debug\net5.0\ASM_Day2.dll
+D:\ASM_Day2\bin\Debug\net5.0\ref\ASM_Day2.dll
+D:\ASM_Day2\bin\Debug\net5.0\ASM_Day2.pdb
+D:\ASM_Day2\obj\Debug\net5.0\ASM_Day2.csproj.AssemblyReference.cache
+D:\ASM_Day2\obj\Debug\net5.0\ASM_Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASM_Day2\obj\Debug\net5.0\ASM_Day2.AssemblyInfoInputs.cache
+D:\ASM_Day2\obj\Debug\net5.0\ASM_Day2.AssemblyInfo.cs
+D:\ASM_Day2\obj\Debug\net5.0\ASM_Day2.csproj.CoreCompileInputs.cache
+D:\ASM_Day2\obj\Debug\net5.0\ASM_Day2.dll
+D:\ASM_Day2\obj\Debug\net5.0\ref\ASM_Day2.dll
+D:\ASM_Day2\obj\Debug\net5.0\ASM_Day2.pdb
+D:\ASM_Day2\obj\Debug\net5.0\ASM_Day2.genruntimeconfig.cache
